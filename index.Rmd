@@ -45,7 +45,7 @@
 </a> <br> <br><hr>
 
 	 <h2> <tt> Parceiros </tt> </h2>
-	    <a href="https://barbaramarques2011.github.io/MagicShop.precos/" title="Relacionamentos"><img alt="Relacionamentos" src="https://cdn-contents-web.weverse.io/admin/xlx2048/jpg/5e38b587661a4e0297a5c571440572c4824.jpg" width="200" height="200" />
+	    <a href="https://barbaramarques2011.github.io/relacionamentos/" title="Relacionamentos"><img alt="Relacionamentos" src="https://cdn-contents-web.weverse.io/admin/xlx2048/jpg/5e38b587661a4e0297a5c571440572c4824.jpg" width="200" height="200" />
 </a> <br> <br> <hr>
 	    
 <em> <center> <tt> <strong>Borahae<sup>7</sup>!</strong> <br> Big Hit Music<sup>©</sup> </tt> </center></em>
