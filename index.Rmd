@@ -41,11 +41,12 @@
               13h-23h </p> <hr>
 	    
 	 <h2> <tt> Cardápio </tt> </h2>
-	 <img alt="Menu" src="https://cdn140.picsart.com/267882531022211.png?type=webp&to=min&r=640" width="200" height="200" />
+	 <a href="https://barbaramarques2011.github.io/MagicShop.precos/" title="Cardápio"><img alt="Cardápio" src="https://cdn140.picsart.com/267882531022211.png?type=webp&to=min&r=640" width="200" height="200" />
 </a> <br> <br><hr>
 
 	 <h2> <tt> Parceiros </tt> </h2>
-	    [adiconar link para parceiros]  <hr>
+	    <a href="https://barbaramarques2011.github.io/MagicShop.precos/" title="Relacionamentos"><img alt="Relacionamentos" src="https://cdn-contents-web.weverse.io/admin/xlx2048/jpg/5e38b587661a4e0297a5c571440572c4824.jpg" width="200" height="200" />
+</a> <br> <br> <hr>
 	    
 <em> <center> <tt> <strong>Borahae<sup>7</sup>!</strong> <br> Big Hit Music<sup>©</sup> </tt> </center></em>
 </body>
