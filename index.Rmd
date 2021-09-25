@@ -41,7 +41,7 @@
               13h-23h </p> <hr>
 	    
 	 <h2> <tt> Menu </tt> </h2><a href="https://barbaramarques2011.github.io/MagicShop.precos/" title="Menu">
-	<img alt="Menu" src="https://cdn140.picsart.com/267882531022211.png?type=webp&to=min&r=640" width="500" height="500" />
+	<img alt="Menu" src="https://cdn140.picsart.com/267882531022211.png?type=webp&to=min&r=640" width="200" height="200" />
 </a> <br> <br>
 	    <br> <br>
 	    
